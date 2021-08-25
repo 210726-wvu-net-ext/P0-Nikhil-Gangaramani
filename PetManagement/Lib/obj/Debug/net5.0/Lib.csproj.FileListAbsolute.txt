@@ -1,0 +1,12 @@
+C:\Revature\210726-wvu-net-ext\P0-Nikhil-Gangaramani\PetManagement\Lib\obj\Debug\net5.0\Lib.csproj.AssemblyReference.cache
+C:\Revature\210726-wvu-net-ext\P0-Nikhil-Gangaramani\PetManagement\Lib\obj\Debug\net5.0\Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature\210726-wvu-net-ext\P0-Nikhil-Gangaramani\PetManagement\Lib\obj\Debug\net5.0\Lib.AssemblyInfoInputs.cache
+C:\Revature\210726-wvu-net-ext\P0-Nikhil-Gangaramani\PetManagement\Lib\obj\Debug\net5.0\Lib.AssemblyInfo.cs
+C:\Revature\210726-wvu-net-ext\P0-Nikhil-Gangaramani\PetManagement\Lib\obj\Debug\net5.0\Lib.csproj.CoreCompileInputs.cache
+C:\Revature\210726-wvu-net-ext\P0-Nikhil-Gangaramani\PetManagement\Lib\bin\Debug\net5.0\Lib.deps.json
+C:\Revature\210726-wvu-net-ext\P0-Nikhil-Gangaramani\PetManagement\Lib\bin\Debug\net5.0\Lib.dll
+C:\Revature\210726-wvu-net-ext\P0-Nikhil-Gangaramani\PetManagement\Lib\bin\Debug\net5.0\ref\Lib.dll
+C:\Revature\210726-wvu-net-ext\P0-Nikhil-Gangaramani\PetManagement\Lib\bin\Debug\net5.0\Lib.pdb
+C:\Revature\210726-wvu-net-ext\P0-Nikhil-Gangaramani\PetManagement\Lib\obj\Debug\net5.0\Lib.dll
+C:\Revature\210726-wvu-net-ext\P0-Nikhil-Gangaramani\PetManagement\Lib\obj\Debug\net5.0\ref\Lib.dll
+C:\Revature\210726-wvu-net-ext\P0-Nikhil-Gangaramani\PetManagement\Lib\obj\Debug\net5.0\Lib.pdb

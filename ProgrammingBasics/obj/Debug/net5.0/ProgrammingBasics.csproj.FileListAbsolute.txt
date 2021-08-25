@@ -1,0 +1,16 @@
+C:\Revature\210726-wvu-net-ext\P0-Nikhil-Gangaramani\ProgrammingBasics\obj\Debug\net5.0\ProgrammingBasics.csproj.AssemblyReference.cache
+C:\Revature\210726-wvu-net-ext\P0-Nikhil-Gangaramani\ProgrammingBasics\obj\Debug\net5.0\ProgrammingBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature\210726-wvu-net-ext\P0-Nikhil-Gangaramani\ProgrammingBasics\obj\Debug\net5.0\ProgrammingBasics.AssemblyInfoInputs.cache
+C:\Revature\210726-wvu-net-ext\P0-Nikhil-Gangaramani\ProgrammingBasics\obj\Debug\net5.0\ProgrammingBasics.AssemblyInfo.cs
+C:\Revature\210726-wvu-net-ext\P0-Nikhil-Gangaramani\ProgrammingBasics\obj\Debug\net5.0\ProgrammingBasics.csproj.CoreCompileInputs.cache
+C:\Revature\210726-wvu-net-ext\P0-Nikhil-Gangaramani\ProgrammingBasics\bin\Debug\net5.0\ProgrammingBasics.exe
+C:\Revature\210726-wvu-net-ext\P0-Nikhil-Gangaramani\ProgrammingBasics\bin\Debug\net5.0\ProgrammingBasics.deps.json
+C:\Revature\210726-wvu-net-ext\P0-Nikhil-Gangaramani\ProgrammingBasics\bin\Debug\net5.0\ProgrammingBasics.runtimeconfig.json
+C:\Revature\210726-wvu-net-ext\P0-Nikhil-Gangaramani\ProgrammingBasics\bin\Debug\net5.0\ProgrammingBasics.runtimeconfig.dev.json
+C:\Revature\210726-wvu-net-ext\P0-Nikhil-Gangaramani\ProgrammingBasics\bin\Debug\net5.0\ProgrammingBasics.dll
+C:\Revature\210726-wvu-net-ext\P0-Nikhil-Gangaramani\ProgrammingBasics\bin\Debug\net5.0\ref\ProgrammingBasics.dll
+C:\Revature\210726-wvu-net-ext\P0-Nikhil-Gangaramani\ProgrammingBasics\bin\Debug\net5.0\ProgrammingBasics.pdb
+C:\Revature\210726-wvu-net-ext\P0-Nikhil-Gangaramani\ProgrammingBasics\obj\Debug\net5.0\ProgrammingBasics.dll
+C:\Revature\210726-wvu-net-ext\P0-Nikhil-Gangaramani\ProgrammingBasics\obj\Debug\net5.0\ref\ProgrammingBasics.dll
+C:\Revature\210726-wvu-net-ext\P0-Nikhil-Gangaramani\ProgrammingBasics\obj\Debug\net5.0\ProgrammingBasics.pdb
+C:\Revature\210726-wvu-net-ext\P0-Nikhil-Gangaramani\ProgrammingBasics\obj\Debug\net5.0\ProgrammingBasics.genruntimeconfig.cache
